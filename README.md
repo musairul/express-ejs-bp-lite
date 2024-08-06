@@ -8,7 +8,7 @@ This 'lite' version has the database code and models/users code removed.
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/my-node-app.git
+git clone https://github.com/yourusername/express-ejs-bp-lite.git
 cd my-node-app
 ```
 
