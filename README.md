@@ -40,5 +40,5 @@ or
 npm run dev
 ```
 
-6. Navigate to the location of the website
+6. Navigate to the location of the website (initially set to http://localhost:3000)
 
